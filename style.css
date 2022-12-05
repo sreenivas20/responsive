@@ -1,0 +1,57 @@
+#logo
+{
+    width: 9rem;
+    height: 6rem;
+}
+
+#nav-list 
+{
+  padding: 1rem;
+}
+
+
+
+
+.first-img
+{
+  width: 100%;
+}
+
+.p-1
+{
+  margin-left: 51px;
+}
+
+.button {
+  background-color: #f8f9fa;
+  border: 1px soild blue;
+  color: #1420df;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 47%;
+  cursor: pointer;
+}
+
+.img-bottom
+{
+
+    display: block;
+    max-width: 70%;
+    height: auto;
+    cursor: pointer;
+
+}
+
+.img-bottom-1
+{
+  
+    display: block;
+    max-width: 80%;
+    height: auto;
+   padding-left: 10%;
+   cursor: pointer;
+}
